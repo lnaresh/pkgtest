@@ -1,4 +1,9 @@
 /*2022 rights */
 Architecture Flow model
+UI
+Added cores
+Added architecutres
 AUTOSAR ENGINE
-
+AUTOSAR: BENZ DAMLER VOLVO AUDI
+Kernel
+HW
