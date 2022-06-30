@@ -1,4 +1,4 @@
 arch1
-
+Added cores
 Added architecutres
-ECU AUTOSAR
+vOLVO AUTOSAR
