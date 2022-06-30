@@ -1,4 +1,9 @@
 arch1
+
+UI
 Added cores
 Added architecutres
 AUTOSAR: BENZ DAMLER VOLVO AUDI
+
+Kernel
+HW
