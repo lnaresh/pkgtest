@@ -1,4 +1,4 @@
 arch1
-
+Added cores
 Added architecutres
-AUTOSAR: BENZ DAMLER
+AUTOSAR: BENZ DAMLER VOLVO AUDI
