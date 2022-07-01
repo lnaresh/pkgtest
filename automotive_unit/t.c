@@ -1,1 +1,2 @@
-naresh has qwertkeypad
+naresh has qwerty keypad
+
