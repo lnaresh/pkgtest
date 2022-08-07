@@ -6,3 +6,6 @@ printf("Trace");
 int main(){
 printf("1:Before Patch\n");
 }
+int exit(){
+printf("exit function");
+}
