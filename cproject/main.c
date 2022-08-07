@@ -1,7 +1,8 @@
 #include<stdio.h>
 
-int function(){
-printk("kernel functionality");
+int feature1(){
+printk("kernel mainchange_feature1 functionality");
+
 }
 
 int main(){
